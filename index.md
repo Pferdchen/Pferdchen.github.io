@@ -10,10 +10,10 @@ Thanks to GitHub. It realizes not only all features of Git, but also bug trackin
 # Projects
 Some of projects are running or waiting to start.
 
-## [Sudoku](https://github.com/Pferdchen/sudoku) (running)
+## [Sudoku](https://github.com/Pferdchen/sudoku) (closed)
 Design and implement a sudoku algorithm with Java Swing and AWT. Learn new features of Java SE 7 and 8. Use Factory Method Pattern to compare the performance between Java SE 6, 7 and 8.
 
-## [SudokuFX](https://github.com/Pferdchen/sudoku) (running)
+## [SudokuFX](https://github.com/Pferdchen/sudoku) (closed)
 Design and implement a sudoku algorithm with JavaFX.
 
 ## JSudoku (waiting)
@@ -25,20 +25,20 @@ Design and implement a web-based sudoku application with Python and Django.
 ## RSudoku (waiting)
 Design and implement a web-based sudoku application with Ruby on Rails.
 
-## [ticket-monster](https://github.com/Pferdchen/javaee6) (running)
+## [ticket-monster](https://github.com/Pferdchen/javaee6) (closed)
 Refer to [Ticket Monster tutorial](http://www.jboss.org/ticket-monster/) step by step learn features of Java EE 6 with jboss-eap-6.4 or WildFly 8.x. Copyright by JBoss Developer (@jboss-developer) on GitHub.
 
-## [JavaDesPatDepth](https://github.com/Pferdchen/designpatterns) (running)
+## [JavaDesPatDepth](https://github.com/Pferdchen/designpatterns) (closed)
 Learn design patterns in depth.
 
-## [Oozinoz code](https://github.com/Pferdchen/designpatterns) (running)
+## [Oozinoz code](https://github.com/Pferdchen/designpatterns) (closed)
 Learn design patterns. View source code in [Design Patterns In Java by Steve Metsker and William Wake](http://xp123.com/oozinoz/designpatternsinjava.htm).
 
-## [onlineshop-war_low_level](https://github.com/Pferdchen/prodevjavaee7) (running)
+## [onlineshop-war_low_level](https://github.com/Pferdchen/prodevjavaee7) (closed)
 Java EE 7 low level application running on WildFly 8.x. Related technologies: Servlet 3.1, JSP 2.3, JSTL 1.2, JSP-ELE 3.0 and JDBC 4.1.
 
-## [onlineshop-war_high_level](https://github.com/Pferdchen/prodevjavaee7) (running)
+## [onlineshop-war_high_level](https://github.com/Pferdchen/prodevjavaee7) (closed)
 Java EE 7 high level application running on WildFly 8.x. Related technologies: JPA 2.1, JSF 2.2, JSF-EL 3.0 and CDI 1.1.
 
-## [jekyll_demo](https://github.com/Pferdchen/jekyll_demo) (running)
+## [jekyll_demo](https://github.com/Pferdchen/jekyll_demo) (closed)
 A demo blog bases on a template created by ruby 2.3.0p0 and jekyll 3.1.2 on my Raspberry Pi. My propose is going to learn Git commands and Jekyll framework and use LaTeX in HTML.
