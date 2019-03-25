@@ -1,0 +1,8 @@
+title: Standing on the shoulders of giants
+description: Just do it!
+google_analytics: UA-75911728-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
