@@ -11,28 +11,31 @@ Thanks to GitHub. It realizes not only all features of Git, but also bug trackin
 Some of projects are running, waiting to start or closed.
 
 ## [Sudoku](https://github.com/Pferdchen/sudoku) (closed)
-Design and implement a sudoku algorithm with Java Swing and AWT. Learn new features of Java SE 7 and 8. Use Factory Method Pattern to compare the performance between Java SE 6, 7 and 8.
+Design and implement a Sudoku algorithm with Java Swing and AWT. Learn new features of Java SE 7 and 8. Use Factory Method Pattern to compare the performance between Java SE 6, 7 and 8.
 
 ## [SudokuFX](https://github.com/Pferdchen/sudoku) (closed)
-Design and implement a sudoku algorithm with JavaFX.
+Design and implement a Sudoku algorithm with JavaFX.
 
-## [jssudoku](https://github.com/Pferdchen/jssudoku) (running)
-Implement sudoku with JavaScript (ES6).
+## [cljsudoku](https://github.com/Pferdchen/cljsudoku) (running)
+Implement Sudoku with Clojure (1.10.0).
+
+## [jssudoku](https://github.com/Pferdchen/jssudoku) (waiting)
+Implement Sudoku with JavaScript (ES6).
 
 ## [pysudoku](https://github.com/Pferdchen/pysudoku) (running)
-Implement sudoku with Python (3.7+).
+Implement Sudoku with Python (3.7+).
 
 ## djsudoku (waiting)
-Design and implement a web-based sudoku application with Django.
+Design and implement a web-based Sudoku application with Django.
 
 ## [rbsudoku](https://github.com/Pferdchen/rbsudoku) (waiting)
-Implement sudoku with Ruby.
+Implement Sudoku with Ruby.
 
 ## rrsudoku (waiting)
-Design and implement a web-based sudoku application with Ruby on Rails.
+Design and implement a web-based Sudoku application with Ruby on Rails.
 
 ## rssudoku (waiting)
-Implement sudoku with Rust.
+Implement Sudoku with Rust.
 
 ## [ticket-monster](https://github.com/Pferdchen/javaee6) (closed)
 Refer to [Ticket Monster tutorial](http://www.jboss.org/ticket-monster/) step by step learn features of Java EE 6 with jboss-eap-6.4 or WildFly 8.x. Copyright by JBoss Developer (@jboss-developer) on GitHub.
